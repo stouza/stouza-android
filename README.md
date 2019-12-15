@@ -1,3 +1,5 @@
+Please see our public project presentation [here](https://github.com/stouza/stouza-presentation).
+
 # Android application for stouza.ru
 
 An Android application for configuring direct funding.
