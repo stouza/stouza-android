@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Menu Sample Android</string>
+    <string name="menu_item_one">Menu One</string>
+    <string name="menu_item_two">Menu Two</string>
+    <string name="menu_item_three">Menu Three</string>
+    <string name="menu_item_four">Menu Four</string>
+    <string name="menu_item_five">Menu Five</string>
+    <string name="menu_item_six">Menu Six</string>
+    <string name="drawer_open">Abrir menu de navegação</string>
+    <string name="drawer_close">Fechar menu de navegação</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="user_image_header">Imagem do Usuário</string>
+    <string name="nome_usuario_sample">Nome do Usuário</string>
+    <string name="email_usuario_sample">usuario@email.com</string>
+</resources>

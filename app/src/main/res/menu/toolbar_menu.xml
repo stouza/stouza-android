@@ -1,0 +1,9 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_toolbar_menu"
+        android:title="@string/six"
+        android:icon="@mipmap/floating_menu_icon_home"
+        app:showAsAction="always" />
+</menu>
