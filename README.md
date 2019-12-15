@@ -1,6 +1,6 @@
 # AndroidMenuSample
 
-Adapted from the orginal [https://github.com/felipemendes/Android-Menu-Sample](repository) by Felipe Mendes.
+Adapted from the orginal [repository](https://github.com/felipemendes/Android-Menu-Sample) by Felipe Mendes.
 
 Simple Android menu example. Integrating <a href="https://github.com/Clans/FloatingActionButton" target="_blank">Floating Action Button</a> and <a href="https://github.com/codepath/android_guides/wiki/Fragment-Navigation-Drawer" target="_blank">Fragment Navigation Drawer</a>.
 
