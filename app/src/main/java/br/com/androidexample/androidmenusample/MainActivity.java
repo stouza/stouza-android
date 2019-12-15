@@ -1,4 +1,4 @@
-package br.com.androidexample.androidmenusample;
+package ru.stouza.android;
 
 import android.content.res.Configuration;
 import android.support.design.widget.NavigationView;
@@ -16,12 +16,12 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 
-import br.com.androidexample.androidmenusample.fragments.OneFragment;
-import br.com.androidexample.androidmenusample.fragments.FourFragment;
-import br.com.androidexample.androidmenusample.fragments.SixFragment;
-import br.com.androidexample.androidmenusample.fragments.ThreeFragment;
-import br.com.androidexample.androidmenusample.fragments.TwoFragment;
-import br.com.androidexample.androidmenusample.fragments.FiveFragment;
+import ru.stouza.android.fragments.OneFragment;
+import ru.stouza.android.fragments.FourFragment;
+import ru.stouza.android.fragments.SixFragment;
+import ru.stouza.android.fragments.ThreeFragment;
+import ru.stouza.android.fragments.TwoFragment;
+import ru.stouza.android.fragments.FiveFragment;
 
 import com.github.clans.fab.FloatingActionButton;
 import com.github.clans.fab.FloatingActionMenu;

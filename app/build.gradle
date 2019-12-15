@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "br.com.androidexample.AndroidMenuSample"
+        applicationId "ru.stouza.android"
         minSdkVersion 16
         targetSdkVersion 25
         versionCode 1

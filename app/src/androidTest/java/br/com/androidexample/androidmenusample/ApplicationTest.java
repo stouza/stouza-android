@@ -1,4 +1,4 @@
-package br.com.androidexample.androidmenusample;
+package ru.stouza.android;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,10 +1,34 @@
-# AndroidMenuSample
+# Android application for stouza.ru
 
-Adapted from the orginal [repository](https://github.com/felipemendes/Android-Menu-Sample) by Felipe Mendes.
+An Android application for configuring direct funding.
 
-Simple Android menu example. Integrating <a href="https://github.com/Clans/FloatingActionButton" target="_blank">Floating Action Button</a> and <a href="https://github.com/codepath/android_guides/wiki/Fragment-Navigation-Drawer" target="_blank">Fragment Navigation Drawer</a>.
+## Building
 
-<p align="center">
-  <img src="https://github.com/felipemendes/AndroidMenuSample/blob/master/Screenshot_20160830-203001.png" width="300"/>
-  <img src="https://github.com/felipemendes/AndroidMenuSample/blob/master/Screenshot_20160830-202935.png" width="300"/>
-</p>
+```
+git clone https://github.com/stouza/stouza-android.git
+cd stouza-android
+gradle build
+```
+
+You may need to adjust the path to Android SDK in `local.properties`. 
+
+
+## Troubleshooting
+
+Problem: 
+
+```
+Cannot lock Java compile cache as it has already been locked by this process.
+```
+
+Solution: manually remove locks from the Gradle cache
+
+```
+find ~/.gradle -type f -name "*.lock" | xargs rm
+```
+
+
+## Credits
+
+Adapted from the orginal sample [repository](https://github.com/felipemendes/Android-Menu-Sample) by Felipe Mendes. There, the integration of [Floating Action Button](https://github.com/Clans/FloatingActionButton) and [Fragment Navigation Drawer](https://github.com/codepath/android_guides/wiki/Fragment-Navigation-Drawer) is shown.
+

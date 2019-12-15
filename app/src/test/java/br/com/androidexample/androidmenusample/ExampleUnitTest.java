@@ -1,4 +1,4 @@
-package br.com.androidexample.androidmenusample;
+package ru.stouza.android;
 
 import org.junit.Test;
 
